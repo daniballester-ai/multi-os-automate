@@ -30,6 +30,8 @@ O arquivo `monitoramento.sh` é um script em Bash que realiza as seguintes taref
 5. **Geração de Relatório** (`generate_report`):
    - Gera um relatório detalhado que inclui o status dos serviços e o uso de recursos do sistema.
    - Salva o relatório no diretório `/var/log` com o nome `server_report_YYYY-MM-DD.log`.
+  
+Esse script pode ser facilmente expandido para incluir mais funcionalidades, como alertas via email ou integração com sistemas de monitoramento, e agendado para execução periódica usando o cron.
 
 ## 🐳 Criação e Teste com Docker (Linux)
 
