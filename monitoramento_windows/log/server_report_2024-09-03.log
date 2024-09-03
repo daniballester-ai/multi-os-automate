@@ -1,0 +1,14 @@
+﻿Relatório de monitoramento - 09/03/2024 03:22:54
+---------------------------------
+✔️ Serviço W3SVC está ativo.
+✔️ Serviço MSSQLSERVER está ativo.
+
+CPU Load: 46%
+
+Memória Total: 15.95 MB
+
+Memória Livre: 3.71 MB
+
+Espaço em Disco: 
+C: Usado: 355.33 GB, Livre: 91.18 GB, Total: 446.51 GB
+D: Usado: 136.08 GB, Livre: 87.49 GB, Total: 223.58 GB
